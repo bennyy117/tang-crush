@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Dino-kun!',
     introDesc: `Nửa năm trôi qua từ lúc tớ thích cậu rùi ó :3`,
-    btnIntro: 'hihi',
+    btnIntro: 'hihi ấn vào đi nè',
     title: 'Tớ yêu cậu hơn bất cứ thứ gì khác ❤️',
     desc: 'Cậu có yêu tớ không 🥺',
     btnYes: 'Có chứ yêu cậu nhất trên đời lun ó 😷',
